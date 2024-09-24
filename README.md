@@ -7,16 +7,15 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-- Sou *QA*
+- Sou **QA**
 
 - ⌚ Atualmente trabalho com Testes Automatizados.
 
-- 🛠 Ferramentas que conheço *Selenium | Cypress | Cucumber | Behave | Postman | Insomnia | CI | JMeter*
+- 🛠 Ferramentas que conheço **Selenium | Cypress | Cucumber | Behave | Postman | Insomnia | CI | JMeter**
 
-- 📚 Sempre em busca do aprendizado!
+- 📚 Sempre em busca de aprendizado!
 
-
-*Linguagens:*  
+**Linguagens:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
@@ -26,7 +25,7 @@
 <br/>
 <div>
 
-*Ferramentas de Testes:*  
+**Ferramentas de Testes:**  
 
 <code><img height="20" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
