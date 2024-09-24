@@ -1,16 +1,44 @@
-### Olá! Eu sou Lucas Norte 👋
+<h1 align="center">Olá! Eu sou Lucas Norte 👋</h1>
 
-[![Blog]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-norte-silva-728a63232/)
-[![Blog]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasnorte.qa@gmail.com)
-[![Blog]( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](meudico)
-[![Blog]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](meuinsta)
+<a href="https://github.com/lucas-norte/">
+  <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
+</a>
+<a href="https://www.linkedin.com/in/lucas-norte/">
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-norte&show_icons=true&theme=tokyonight)
+- Sou *QA*
 
-## Tecnologias que uso no meu dia
+- ⌚ Atualmente trabalho com Testes Automatizados.
 
-<div style="display: inline_block"></br>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+- 🛠 Ferramentas que conheço *Selenium | Cypress | Cucumber | Behave | Postman | Insomnia | CI | JMeter*
+
+- 📚 Sempre em busca do aprendizado!
+
+
+*Linguagens:*  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png"></code>
+<code><img height="20" src="https://www.svgrepo.com/show/184143/java.svg"></code>
+<br/>
+<div>
+
+*Ferramentas de Testes:*  
+
+<code><img height="20" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
+<br/>
+<div>
+
+
+<div align="center">
+  <a href="https://github.com/lucas-norte"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-norte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-norte&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
